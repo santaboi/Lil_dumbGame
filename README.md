@@ -1,2 +1,3 @@
 # Lil_dumpGame
-write this for learning pygame 
+**for learning pygame module**
+**also for fun**
